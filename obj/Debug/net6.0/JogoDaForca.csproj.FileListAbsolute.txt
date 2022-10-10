@@ -1,0 +1,30 @@
+D:\OneDrive\Documentos\programacao\cs\JogoDaForca\obj\Debug\net6.0\JogoDaForca.csproj.AssemblyReference.cache
+D:\OneDrive\Documentos\programacao\cs\JogoDaForca\obj\Debug\net6.0\JogoDaForca.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documentos\programacao\cs\JogoDaForca\obj\Debug\net6.0\JogoDaForca.AssemblyInfoInputs.cache
+D:\OneDrive\Documentos\programacao\cs\JogoDaForca\obj\Debug\net6.0\JogoDaForca.AssemblyInfo.cs
+D:\OneDrive\Documentos\programacao\cs\JogoDaForca\obj\Debug\net6.0\JogoDaForca.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documentos\programacao\cs\JogoDaForca\bin\Debug\net6.0\JogoDaForca.exe
+D:\OneDrive\Documentos\programacao\cs\JogoDaForca\bin\Debug\net6.0\JogoDaForca.deps.json
+D:\OneDrive\Documentos\programacao\cs\JogoDaForca\bin\Debug\net6.0\JogoDaForca.runtimeconfig.json
+D:\OneDrive\Documentos\programacao\cs\JogoDaForca\bin\Debug\net6.0\JogoDaForca.dll
+D:\OneDrive\Documentos\programacao\cs\JogoDaForca\bin\Debug\net6.0\JogoDaForca.pdb
+D:\OneDrive\Documentos\programacao\cs\JogoDaForca\obj\Debug\net6.0\JogoDaForca.dll
+D:\OneDrive\Documentos\programacao\cs\JogoDaForca\obj\Debug\net6.0\refint\JogoDaForca.dll
+D:\OneDrive\Documentos\programacao\cs\JogoDaForca\obj\Debug\net6.0\JogoDaForca.pdb
+D:\OneDrive\Documentos\programacao\cs\JogoDaForca\obj\Debug\net6.0\JogoDaForca.genruntimeconfig.cache
+D:\OneDrive\Documentos\programacao\cs\JogoDaForca\obj\Debug\net6.0\ref\JogoDaForca.dll
+C:\Users\ggutierrez\OneDrive - Banco Master\Documentos\docs\Code\Jogo-forca\bin\Debug\net6.0\JogoDaForca.exe
+C:\Users\ggutierrez\OneDrive - Banco Master\Documentos\docs\Code\Jogo-forca\bin\Debug\net6.0\JogoDaForca.deps.json
+C:\Users\ggutierrez\OneDrive - Banco Master\Documentos\docs\Code\Jogo-forca\bin\Debug\net6.0\JogoDaForca.runtimeconfig.json
+C:\Users\ggutierrez\OneDrive - Banco Master\Documentos\docs\Code\Jogo-forca\bin\Debug\net6.0\JogoDaForca.dll
+C:\Users\ggutierrez\OneDrive - Banco Master\Documentos\docs\Code\Jogo-forca\bin\Debug\net6.0\JogoDaForca.pdb
+C:\Users\ggutierrez\OneDrive - Banco Master\Documentos\docs\Code\Jogo-forca\obj\Debug\net6.0\JogoDaForca.csproj.AssemblyReference.cache
+C:\Users\ggutierrez\OneDrive - Banco Master\Documentos\docs\Code\Jogo-forca\obj\Debug\net6.0\JogoDaForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggutierrez\OneDrive - Banco Master\Documentos\docs\Code\Jogo-forca\obj\Debug\net6.0\JogoDaForca.AssemblyInfoInputs.cache
+C:\Users\ggutierrez\OneDrive - Banco Master\Documentos\docs\Code\Jogo-forca\obj\Debug\net6.0\JogoDaForca.AssemblyInfo.cs
+C:\Users\ggutierrez\OneDrive - Banco Master\Documentos\docs\Code\Jogo-forca\obj\Debug\net6.0\JogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\ggutierrez\OneDrive - Banco Master\Documentos\docs\Code\Jogo-forca\obj\Debug\net6.0\JogoDaForca.dll
+C:\Users\ggutierrez\OneDrive - Banco Master\Documentos\docs\Code\Jogo-forca\obj\Debug\net6.0\refint\JogoDaForca.dll
+C:\Users\ggutierrez\OneDrive - Banco Master\Documentos\docs\Code\Jogo-forca\obj\Debug\net6.0\JogoDaForca.pdb
+C:\Users\ggutierrez\OneDrive - Banco Master\Documentos\docs\Code\Jogo-forca\obj\Debug\net6.0\JogoDaForca.genruntimeconfig.cache
+C:\Users\ggutierrez\OneDrive - Banco Master\Documentos\docs\Code\Jogo-forca\obj\Debug\net6.0\ref\JogoDaForca.dll
